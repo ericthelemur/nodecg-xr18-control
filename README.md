@@ -1,5 +1,8 @@
 # NodeCG XR18 Controller
 
+> [!WARNING]
+> This repo has been merged into https://github.com/ericthelemur/wasd
+
 ## Installation
 
 1. Install NodeCG
